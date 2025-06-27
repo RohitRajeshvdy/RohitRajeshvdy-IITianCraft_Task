@@ -11,3 +11,5 @@ Models can also be viewed and downloaded from Sketfab
 :ice_cube:[Crate](https://sketchfab.com/3d-models/wooden-crate-ac447b4f07d8411f9ac8a2b163ff362f)
 
 :bridge_at_night:[Bridge](https://sketchfab.com/3d-models/lowpoly-bridge-3c6c5a4097b24715a869d93d974cad6b)
+
+:evergreen_tree:[Tree](https://sketchfab.com/3d-models/lowpoly-tree-0819afaaad12458d893d7eee8a823618)
